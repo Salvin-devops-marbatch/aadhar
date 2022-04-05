@@ -1,7 +1,7 @@
 hello al
 
 Push the changes with https url
-
+again push chagnes with ssh url link
 updating the file forthe first time 
 in github
 
