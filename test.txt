@@ -1,4 +1,6 @@
-hello all
+hello al
+
+Push the changes with https url
 
 updating the file forthe first time 
 in github
