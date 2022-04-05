@@ -7,3 +7,4 @@ Sanjay asked to update the file to fix the issue
 kfvdflkje
 jgalgme
 dkfmlek;r
+test git fetch command in local repo 
